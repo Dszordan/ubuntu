@@ -1,0 +1,4 @@
+pane	rogers-0	1	:..vault-testing	1	:*	1	:/mnt/c/Users/JordanBurnett/Documents/clients/rogers/003/code_rogers/vault-testing	1	zsh	:git fetch
+pane	rogers-0	1	:..vault-testing	1	:*	2	:/mnt/c/Users/JordanBurnett/Documents/clients/rogers/003/code_sourced/core	0	zsh	:
+window	rogers-0	1	1	:*	66ea,274x74,0,0{118x74,0,0,3,155x74,119,0,2}
+state	rogers-0	

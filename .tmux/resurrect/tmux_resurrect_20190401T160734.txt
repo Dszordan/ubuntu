@@ -1,0 +1,8 @@
+pane	rogers	1	:exit	1	:*	1	:/mnt/c/Users/JordanBurnett/Documents/clients	1	bash	:
+pane	rogers-0	1	:..gers-cool-app	1	:*	1	:/mnt/c/Users/JordanBurnett/Documents/clients/rogers/003/code_sourced/rogers-cool-app	0	zsh	:zsh
+pane	rogers-0	1	:..gers-cool-app	1	:*	2	:/mnt/c/Users/JordanBurnett/Documents/clients/rogers/003/code_sourced/rogers-cool-app	1	zsh	:-bash
+tmux new -s rogers
+zsh
+window	rogers	1	1	:*	c2dd,271x74,0,0,0
+window	rogers-0	1	1	:*	a5da,271x74,0,0{135x74,0,0,1,135x74,136,0,7}
+state	rogers-0	rogers
